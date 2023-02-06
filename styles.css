@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(238, 253, 253);
+    color:rgb(39, 39, 21); font-size:  20px; 
+    font-weight: 600; font-family:Georgia, 'Times New Roman', Times, serif}
+    .avatar{
+        width: 250px;
+        border-radius: 25px;
+    }
+    .info p{
+         margin: 0%;
+         text-decoration: underline;
+         text-transform: capitalize;
+         letter-spacing: 1px;
+         word-spacing: 3px;
+         margin-bottom: 20px;
+    }
+ 
+    .conteiner {
+      max-width: 750px; 
+      margin: auto;
+      
+    }
+    a:active{
+        color: black;}
+.bg-yellow{
+    background-color: red;
+   margin-bottom: 20px;
+
+}.bg-blu{
+    background-color: rgb(6, 42, 243);
+
+}.bg-oranj{
+    background-color: rgb(241, 167, 8);
+
+}
+
+    .card{
+        
+        margin-bottom: 20px;
+        border-radius: 20px;
+        margin-top: 25px;
+    } 
+    .card ul {
+margin-bottom: 5px;
+    } 
